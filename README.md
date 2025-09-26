@@ -21,7 +21,7 @@ This project analyzes the **Indian Premier League (IPL)** dataset to extract ins
 * Venue-based statistics
 * Win percentage analysis
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
 
